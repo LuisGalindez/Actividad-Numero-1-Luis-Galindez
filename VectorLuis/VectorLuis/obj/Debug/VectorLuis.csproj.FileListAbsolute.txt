@@ -1,0 +1,8 @@
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\VectorLuis\VectorLuis\obj\Debug\VectorLuis.csproj.AssemblyReference.cache
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\VectorLuis\VectorLuis\obj\Debug\VectorLuis.csproj.SuggestedBindingRedirects.cache
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\VectorLuis\VectorLuis\obj\Debug\VectorLuis.csproj.CoreCompileInputs.cache
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\VectorLuis\VectorLuis\bin\Debug\VectorLuis.exe.config
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\VectorLuis\VectorLuis\bin\Debug\VectorLuis.exe
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\VectorLuis\VectorLuis\bin\Debug\VectorLuis.pdb
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\VectorLuis\VectorLuis\obj\Debug\VectorLuis.exe
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\VectorLuis\VectorLuis\obj\Debug\VectorLuis.pdb
